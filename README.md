@@ -53,6 +53,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Got email working so tickets get created automatically and staff get alerts."
+Got email working so tickets get created automatically and staff get alerts.
 </p>
 <br />
